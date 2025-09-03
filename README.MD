@@ -47,3 +47,16 @@ Projeto de **QA** focado em **testes manuais** do aplicativo **Urban Lunch** uti
 ##  Melhorias Futuras
 - Realizar testes em múltiplos dispositivos físicos.  
 - Integrar testes automatizados de regressão.  
+
+---
+
+### 🎉 Certificação - SPRINT 5
+<img src="Imagem\QuintoSprint.png"> 
+
+---
+
+## ✨ Sobre Mim
+Sou **Leonardo Pattussi**, profissional em transição para a área de **Qualidade de Software (QA)**.  
+Após mais de 12 anos atuando como gerente comercial, concluí o **Bootcamp QA da TripleTen**, aplicando agora minha experiência analítica e de processos para garantir a entrega de produtos digitais de qualidade.  
+
+📫 Contato: [pattussi@hotmail.com](mailto:pattussi@hotmail.com) | [LinkedIn](https://linkedin.com/in/leonardo-pattussi)  
