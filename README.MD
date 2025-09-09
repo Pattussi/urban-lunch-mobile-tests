@@ -1,4 +1,4 @@
-# 📝 Testes Manuais – Urban Lunch
+# 📝 Urban Lunch – Testes Manuais Mobile
 
 ##  Visão Geral do Projeto
 Projeto de **QA** focado em **testes manuais** do aplicativo **Urban Lunch** utilizando o **Android Studio**.
